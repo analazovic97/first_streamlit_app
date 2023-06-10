@@ -52,7 +52,7 @@ except URLError as e:
 
 #streamlit.stop() #Don't run anything past here while troubleshooting
 
-streamlit.header("View our fruit list - Add your favorites!")
+#streamlit.header("View our fruit list - Add your favorites!")
 
 #adding function for snowflake
 def get_fruit_load_list():
